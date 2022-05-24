@@ -79,7 +79,7 @@ async def start_(client: Client, message: Message):
                         "🎙جــروب الــدعـم🎙", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "𝐒𝐎𝐔𝐑𝐂𝐄🌀", url=f"https://t.me/EITHON1"
+                        "𝐒𝐎𝐔𝐑𝐂𝐄🌀", url=f"https://t.me/itsZlZ"
                     ),
                 ],
                 [
@@ -113,7 +113,7 @@ async def alive(client: Client, message: Message):
                         "🎙جــروب الــدعـم🎙", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "𝐒𝐎𝐔𝐑𝐂𝐄🌀", url=f"https://t.me/EITHON1"
+                        "𝐒𝐎𝐔𝐑𝐂𝐄🌀", url=f"https://t.me/itsZlZ"
                     ),
                 ],
                 [
