@@ -43,7 +43,7 @@ async def cbstart(_, query: CallbackQuery):
                         "🎙جــروب الــدعـم🎙", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "𝐒𝐎𝐔𝐑𝐂𝐄🌀", url=f"https://t.me/itszLz"
+                        "𝐒𝐎𝐔𝐑𝐂𝐄🌀", url=f"https://t.me/hMusic0"
                     ),
                 ],
                 [
@@ -72,7 +72,7 @@ async def cbguides(_, query: CallbackQuery):
 
  💡 إذا كانت لديك أسئلة  حول هذا البوت ، فيمكنك إخبارنا منن خلال قروب الدعم الخاصة بي هنا ↤ @{GROUP_SUPPORT}
 
- ⚡ 🌀قناة البوت @itsZlZ
+ ⚡ 🌀قناة البوت @hMusic0
 __""",
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("🔙 رجوع", callback_data="cbstart")]]
@@ -87,7 +87,7 @@ async def cbcmds(_, query: CallbackQuery):
 
 » **⇦قم بالضغط علي الزر الذي تريده لمعرفه الاوامر لكل فئه منهم !**
 
-⚡ __قناة البوت»  @itsZlZ  __""",
+⚡ __قناة البوت»  @hMusic0  __""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
