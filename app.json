@@ -29,7 +29,7 @@
             "required": true
         },
         "BOT_NAME": {
-            "description": "قم بوضع يوزر بوتك بدون علامة @",
+            "description": "قم بوضع اسم بوتك هنا",
             "required": true
         },
         "ASSISTANT_NAME": {
@@ -37,7 +37,7 @@
             "required": true
         },
         "SESSION_NAME": {
-            "description": "قم بوضع كود تيرمكس هنا",
+            "description": "قم بوضع كود بايروجرام هنا",
             "required": true
         },
         "SUDO_USERS": {
