@@ -79,7 +79,7 @@ async def start_(client: Client, message: Message):
                         "🎙جــروب الــدعـم🎙", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "𝐒𝐎𝐔𝐑𝐂𝐄🌀", url=f"https://t.me/itsZlZ"
+                        "𝐒𝐎𝐔𝐑𝐂𝐄🌀", url=f"https://t.me/hMusic0"
                     ),
                 ],
                 [
@@ -113,7 +113,7 @@ async def alive(client: Client, message: Message):
                         "🎙جــروب الــدعـم🎙", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "𝐒𝐎𝐔𝐑𝐂𝐄🌀", url=f"https://t.me/itsZlZ"
+                        "𝐒𝐎𝐔𝐑𝐂𝐄🌀", url=f"https://t.me/hMusic0"
                     ),
                 ],
                 [
@@ -133,7 +133,7 @@ async def alive(client: Client, message: Message):
     )
 
 
-@Client.on_message(command(["ping", "يست", f"ping@{BOT_USERNAME}"]) & ~filters.edited)
+@Client.on_message(command(["ping", "تيست", f"ping@{BOT_USERNAME}"]) & ~filters.edited)
 async def ping_pong(client: Client, message: Message):
     start = time()
     m_reply = await message.reply_text("pinging...")
