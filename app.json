@@ -8,9 +8,9 @@
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/ItszLz",
+    "website": "https://t.me/hMusic0",
     "repository": "https://github.com/VamBIR/free",
-    "success_url": "https://t.me/ItszLz",
+    "success_url": "https://t.me/hMusic0",
     "env": {
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
@@ -52,7 +52,7 @@
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": "ItszLz"
+            "value": "hMusic0"
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
