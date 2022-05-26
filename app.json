@@ -1,16 +1,16 @@
 {
-    "name": "EITHON musiccc",
+    "name": "𝙷𝙼𝙳 𝙼𝚄𝚂𝙸𝙲",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/aa0ad3671257edd1ddace.jpg",
+    "logo": "https://telegra.ph/file/329335f0fcfb7e3fb6caa.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/EITHON",
+    "website": "https://t.me/ItszLz",
     "repository": "https://github.com/VamBIR/free",
-    "success_url": "https://t.me/EITHON",
+    "success_url": "https://t.me/ItszLz",
     "env": {
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
@@ -47,22 +47,22 @@
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": "eithonsupport"
+            "value": "YVVIY"
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": "EITHON"
+            "value": "ItszLz"
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": "Mohmad990754"
+            "value": "oooNK"
         },
         "ALIVE_NAME": {
             "description": "اتركها كما هي",
             "required": true,
-            "value": "ᯓ˹ ايثون ميوزك 🎻 𝐄𝐈𝐓𝐇𝐎𝐍 𝐌𝐔𝐒𝐈𝐂"
+            "value": "ᯓ˹ 𝙷𝙼𝙳 𝙼𝚄𝚂𝙸𝙲 🎻"
         }
     },
     "addons": [],
